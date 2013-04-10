@@ -20,6 +20,7 @@
                     <dependencyDetailsEnabled>false</dependencyDetailsEnabled>
                     <dependencyLocationsEnabled>false</dependencyLocationsEnabled>
                 </configuration>
+		<version>2.6</version>
             </plugin>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
