@@ -48,6 +48,7 @@
                     <formats>
                         <format>xml</format>
                     </formats>
+                    <forceMojoExecution>true</forceMojoExecution>
                 </configuration>
             </plugin>
             <plugin>
