@@ -18,7 +18,7 @@
         <thucydides.version>0.9.22</thucydides.version>
         <jelastic.context>gameoflife</jelastic.context>
         <jelastic.environment>wakaleo</jelastic.environment>
-        <maven-project-info-reports-plugin.version>${maven-project-info-reports-plugin.version}</maven-project-info-reports-plugin.version>
+        <maven-project-info-reports-plugin.version>2.6</maven-project-info-reports-plugin.version>
     </properties>
 
     <scm>
